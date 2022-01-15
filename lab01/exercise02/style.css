@@ -14,10 +14,6 @@ section {
 
 }
 
-frame {
-    width: calc(25% - 20px);
-}
-
 section img {
     width: 100%;
 }
